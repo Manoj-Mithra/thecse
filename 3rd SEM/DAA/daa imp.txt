@@ -1,0 +1,18 @@
+UNIT-1: 
+1. Define Ω-notation.  
+2. Define O-notation.  
+4. What is meant by worst case, best case and average case?  
+5. Why space complexity of a program is necessary?  
+6. What is an algorithm design technique? 
+7. What are the types of algorithm efficiencies?  
+8. What is empirical analysis of an algorithm. 
+9. What are basic efficiency classes. Explain Orders of Growth. 
+10. (i) Explain the various criteria used for analysing algorithms.  
+    (ii) List the properties of various asymptotic notations. 
+11. (i) Explain the necessary steps for analysing the efficiency of recursive algorithms.  
+    (ii) Write short notes on algorithm visualization. 
+12. Explain the steps of deriving the time efficiency of non-recursive and recursive algorithms with examples. 
+13. Describe briefly the asymptotic notations of complexity of an algorithm.  
+14. Explain Fundamentals of algorithmic problem solving and important problem types.
+15. Write non-recursive algorithm to find out the largest element in a list of n numbers and derive the time complexity.
+

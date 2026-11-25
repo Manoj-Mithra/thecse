@@ -1,0 +1,45 @@
+1.Micro program example
+
+3.Address sequencing circuit
+
+4.Basic Computer instruction format
+
+5.Shift micro-operation.
+
+8.Type of instruction
+	memory reference instruction
+	register-reference instruction
+	input-output instruction
+
+9.Control memory
+
+10.Microprogram example
+
+11.Types of registers(Address , Micro)
+
+12.Control bus architecture
+
+15.Address sequence - unit 2
+
+17.Timing and control - coa u2 p1
+
+18.Computer registers
+
+
+
+DONE
+
+
+7.3-bit adder
+  1-bit adder
+  0-bit adder
+
+2.Binary adder to subtractor
+
+14.Binary adder, Binary subtractor
+
+16.Register transfer language
+
+6.common bus system using 4 register.
+
+13.Types of Micro operations

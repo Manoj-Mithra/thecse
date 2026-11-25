@@ -1,0 +1,19 @@
+microprogram example
+address sequencing circuit
+common bus system using 4 register
+types of instruction
+	0 , 1, 2, 3
+
+	1. Data transfer  
+	2. Data manipulation 
+	3. Program control 
+
+	memory reference instruction
+	register-reference instruction
+	input-output instruction
+
+control memory
+types of registers
+control bus architecture
+address sequence
+

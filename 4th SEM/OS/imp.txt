@@ -1,0 +1,25 @@
+1)Operating System and types
+              
+2)Discuss about System Call.
+
+3)Structure of Operating System.                                                       
+                                                                
+4)States of a Process and explain with neat diagram. 
+                               
+5)Non-Preemptive and Preemptive Scheduling algorithm with an example.                                                                                
+	
+6)Critical Section Problem.     
+
+7)Discuss about About Semaphore?  
+                                                                                                       
+8)Classical Problems of Synchronization.    
+                      
+9)Banker's algorithm with example  
+                                                                              
+10)Discuss about Deadlock   
+                                               
+12) Deadlock Characterization. 
+
+13) Interprocess communication
+
+14) Swapping with an example
